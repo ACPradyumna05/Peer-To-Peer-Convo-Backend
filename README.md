@@ -5,7 +5,9 @@ A robust and scalable backend system for real-time one-on-one and group messagin
 ---
 
 # Preview
-> https://github.com/user-attachments/assets/4749899e-7572-4ec4-8aa3-2ecd78934c9d
+> https://github.com/user-attachments/assets/71d29fed-38a6-4eb1-9c6d-0cfc50441c55
+
+
 
 
 
